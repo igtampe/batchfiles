@@ -14,13 +14,18 @@ Welcome to Igtampe's Google Drive Batch File Directory. Here are some batch File
 
 #### General Terms and Conditions
 - Usage Implies acceptance
-- I Won't Support your version if it is modded
+- I Won't Support your version if it is modded!
+
 - I am NOT responsible for ANY ACTIONS committed under my programs.
 - ~~Please do not copy my programs or if you do please credit me with the original copy.~~ You are free to copy my programs. Attribution is appreciated but not required
 
 
 
+
+![usdamouse](https://user-images.githubusercontent.com/49919240/229871142-187bba44-093f-456a-a69a-24f16eba29f4.png)
+
 Enjoy the Programs!
+
 -Igtampe
 
 ## IGTAMPE DOS
